@@ -2,7 +2,7 @@ s ='Hi,call me cute guy.677z'
 print(s.count(' '))                 #计算s中有多少个‘’
 print(s.index('a'))
 '''输入第一个a所在的位置,若没有则会报错
-解决方案见下'''
+解决方案见line16'''
 print(s.upper())                    #将s中的每个字母替换为大写
 print(s.replace('Hi','Hello'))      #替换s中的Hi为Hello
 print(s.lower())                    #将s中的每个字母替换为小写
